@@ -1,6 +1,5 @@
+Sub - Title
 
-this is the second page of the book!
-
-you like reading, so we are on the same page.
-
+This is the second page of the book!
+You like reading, so we are on the same page.
 Try to read the created page 2.
