@@ -1,6 +1,4 @@
-
-this is the first page.
-
-Java is cool
-
-May be you missed the old stuff
+Title of the Book!
+This is the first page.
+Java is cool!
+May be you missed the old stuff.
