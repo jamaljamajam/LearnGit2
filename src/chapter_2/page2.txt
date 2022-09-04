@@ -1,0 +1,10 @@
+
+
+page 2
+
+text
+
+
+echo "export JAVA_HOME=$(/usr/libexec/java_home -v11.0.15)" >> ~/.bash_profile
+
+source ~/.bash_profile
