@@ -1,3 +1,7 @@
 This is the file created by your colleague.
 
 Please try to pull this page on your local!
+
+Chapter has new features.
+
+Added some more text to pull!
